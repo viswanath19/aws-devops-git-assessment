@@ -1,0 +1,26 @@
+Devops Tools:
+
+GIT (Global Information System)
+
+Git is an open source version control system which helps in maintaining multiple versions and collaborate with different teams while
+developing the application.
+
+Git Statges
+
+1. Working directory (where we write our code)
+2. Staging area (where we track the changes to check the revisions we made to the working files)
+3. repository (which contains the history of the changes in the project files)
+
+
+
+git merge vs git rebases
+
+merge -> shows all the changed or added files
+rebase -> will not show
+
+mere -> saves the history of changes
+rebases -> overrides the history
+
+
+
+
